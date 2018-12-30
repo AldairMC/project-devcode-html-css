@@ -1,0 +1,12 @@
+#divUno{
+  width: 30%;
+  height: 620px;
+  background-color: blue;
+}
+
+#perfil{
+  background-color: red;
+  background-position: center;
+  width: 100px;
+  height: 100px;
+}
